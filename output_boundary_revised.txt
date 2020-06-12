@@ -1,0 +1,15 @@
+
+testPhoneNumberLegthExceed=false
+testGiftAmountExceed=true
+testBuyerLastNull=false
+testEmail=false
+testGiftAmount=true
+testGiftOrdersSuccess=true
+testPhoneNumberNull=false
+testBuyerNameLength=false
+testGiftAmountNegative=false
+testPhoneNumberLegthCorrect=true
+testEmailvalidation1=false
+testEmailvalidation2=true
+testShippingPincode=true
+testBuyerNameNull=false
